@@ -1,0 +1,17 @@
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+PYTHON/.ipynb_checkpoints/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Environment / secrets
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Power BI temp files (safe)
+*.pbix.tmp
